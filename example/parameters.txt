@@ -1,0 +1,3 @@
+fastafile	seqprep_assembled.fasta
+database	/biorg/data/DB/RDP/gold.fa
+wordlength	64

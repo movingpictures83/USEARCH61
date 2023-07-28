@@ -1,0 +1,2 @@
+Prefix plugins/USEARCH61/example/
+Plugin USEARCH61 inputfile parameters.txt outputfile .
